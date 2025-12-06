@@ -4,7 +4,7 @@ Welcome to the **Arbordex Brand System**. This standalone repository (github.com
 
 **Related Repositories:**
 
-- **[Arbordex DEX](https://github.com/arbodex/dex)** – The main DEX application
+- **[Arbordex](https://github.com/arbodex/dex)** – The main DEX application
 - **[Brand Hub](https://github.com/arbodex/brand)** – Logos, colors, and typography (you are here)
 
 ---
@@ -21,8 +21,6 @@ A **single, consolidated** source for all brand guidelines:
 - Complete usage guidelines
 - Logo specifications
 - Quick CSS variables and references
-
-> **v3.0 (Consolidated)** — Combines color-system.md, typography.md, and logo-usage.md into one unified document.
 
 ---
 
