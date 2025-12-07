@@ -1,11 +1,11 @@
-# Arbordex Branding Hub
+# Arbor DEX Brand System
 
-Welcome to the **Arbordex Brand System**. This standalone repository (github.com/arbodex/brand) contains everything needed to maintain visual and verbal consistency across all Arbordex communications, products, and materials.
+Welcome to the **Arbor DEX Brand System**. This repository contains all visual and verbal branding assets for Arbor DEX, maintaining consistency across communications, products, and materials.
 
 **Related Repositories:**
 
-- **[Arbordex](https://github.com/arbodex/dex)** – The main DEX application
-- **[Brand Hub](https://github.com/arbodex/brand)** – Logos, colors, and typography (you are here)
+- **[Arbor DEX (DEX repo)](https://github.com/arbordex/dex)** – The main DEX application product
+- **[Arbor DEX Brand (Brand repo)](https://github.com/arbordex/brand)** – Branding assets, colors, and typography (you are here)
 
 ---
 
@@ -205,10 +205,10 @@ Closes #50
 
 Include references to GitHub issues/PRs in the footer:
 
-- `Fixes #<number>` — Closes the issue
-- `Closes #<number>` — Closes the issue
-- `Related: #<number>` — References without closing
-- `Refs: <url>` — External references
+- `Fixes #<number>`  -  Closes the issue
+- `Closes #<number>`  -  Closes the issue
+- `Related: #<number>`  -  References without closing
+- `Refs: <url>`  -  External references
 
 ### Writing Tips
 

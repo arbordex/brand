@@ -10,13 +10,13 @@ Official, regenerated SVG assets with consistent IDs, styling, and sizing.
 
 ### Available SVGs
 
-- `arbordex.svg` — Full cyan lockup (legacy name, same art as `arbordex-logo-cyan.svg`)
-- `arbordex-logo-cyan.svg` — Primary color logo
-- `arbordex-logo-bw.svg` — Monochrome logo for single-color use
-- `arbordex-mark-cyan.svg` — Cyan mark only (default favicon and app icon)
-- `arbordex-mark-bw.svg` — Monochrome mark only
-- `arbordex-wordmark-cyan.svg` — Cyan wordmark for tight horizontal spaces
-- `arbordex-wordmark-bw.svg` — Monochrome wordmark
+- `arbordex.svg`  -  Full cyan lockup (legacy name, same art as `arbordex-logo-cyan.svg`)
+- `arbordex-logo-cyan.svg`  -  Primary color logo
+- `arbordex-logo-bw.svg`  -  Monochrome logo for single-color use
+- `arbordex-mark-cyan.svg`  -  Cyan mark only (default favicon and app icon)
+- `arbordex-mark-bw.svg`  -  Monochrome mark only
+- `arbordex-wordmark-cyan.svg`  -  Cyan wordmark for tight horizontal spaces
+- `arbordex-wordmark-bw.svg`  -  Monochrome wordmark
 
 ## How to Use
 

@@ -1,5 +1,6 @@
-# Arbordex Brand Guidelines
+# Arbor DEX Brand Guidelines
 
+**Organization:** Arbor DEX  
 **Repository:** `arbordex/brand` (GitHub)  
 **Version:** 3.0 (Consolidated)  
 **Last Updated:** December 2025  
@@ -22,12 +23,12 @@
 
 ## Brand Essence
 
-**Arbordex** is a professional, modular DEX application built to explore DeFi architecture while maintaining code clarity and welcoming contributors.
+**Arbor DEX** is a professional, modular DEX application built to explore DeFi architecture while maintaining code clarity and welcoming contributors.
 
 We are not a teaching platform. We are a real DeFi application where concepts are implemented thoughtfully, code is maintainable, and the structure is intentional enough that others can read, understand, and build on it.
 
 **Elevator Pitch:**  
-> Arbordex is a modular DEX server—built professionally, designed to be understood, and open to the community.
+Arbor DEX is a modular DEX server - built with love, easy to understand, and open to the community.
 
 ---
 
@@ -223,7 +224,7 @@ font-family: "IBM Plex Mono", ui-monospace, SFMono-Regular, Menlo, Monaco,
 
 - "Build, explore, and understand DeFi from the ground up."
 - "Code is meant to be read and modified."
-- "We're learning DeFi together—and we want you along for the ride."
+- "We're learning DeFi together - and we want you along for the ride."
 - "Transparency by default. No gatekeeping."
 
 **❌ Avoid:**
@@ -345,7 +346,7 @@ Arbordex branding is licensed under **CC BY 4.0** (Creative Commons Attribution 
 
 ## Summary
 
-Arbordex branding is **clear, warm, and professional**. Whether you're building a website, designing a print material, or writing copy—follow these guidelines to maintain consistency and reinforce our values:
+Arbordex branding is **clear, warm, and professional**. Whether you're building a website, designing a print material, or writing copy - follow these guidelines to maintain consistency and reinforce our values:
 
 - **Real** code and real impact
 - **Clear** design and clear communication
