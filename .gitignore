@@ -1,0 +1,14 @@
+# macOS
+.DS_Store
+
+# Editor settings
+.vscode/
+.idea/
+
+# Node/JS tooling (optional local previews)
+node_modules/
+dist/
+build/
+
+# Logs and temporary files
+*.log
